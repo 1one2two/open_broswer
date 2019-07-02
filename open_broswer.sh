@@ -58,5 +58,3 @@ then
         gnome-open ${url[$i]}
     done
 fi
-#chrome "http://google.com"
-#python  -mwebbrowser http://google.com
